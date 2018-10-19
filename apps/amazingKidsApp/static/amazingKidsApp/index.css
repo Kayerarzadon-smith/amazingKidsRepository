@@ -74,7 +74,7 @@ html, body {
     width: 32%;
     height:500px;
     float: right;
-    background: linear-gradient(to right,whitesmoke, transparent 45%), url("../images/groupPhoto.jpg") no-repeat
+    background: linear-gradient(to right,whitesmoke, transparent 45%), url("images/groupPhoto.jpg") no-repeat
 }
 @media screen and (max-width: 1366px) {
     .aboutUsWrapper {
@@ -88,7 +88,7 @@ html, body {
         width: 45%;
         height:500px;
         float: right;
-        background: linear-gradient(to right,whitesmoke, transparent 50%), url("../images/groupPhoto.jpg") no-repeat;
+        background: linear-gradient(to right,whitesmoke, transparent 50%), url("images/groupPhoto.jpg") no-repeat;
     }  
 }
 @media screen and (max-width: 1024px) {
@@ -103,7 +103,7 @@ html, body {
         width: 50%;
         height:500px;
         float: right;
-        background: linear-gradient(to right,whitesmoke, transparent 50%), url("../images/groupPhoto.jpg") no-repeat;
+        background: linear-gradient(to right,whitesmoke, transparent 50%), url("images/groupPhoto.jpg") no-repeat;
     } 
     .aboutUsTextWrapper{
         margin-top: 0px;
@@ -130,7 +130,7 @@ html, body {
         width: 55%;
         height:500px;
         float: right;
-        background: linear-gradient(to right,whitesmoke, transparent 50%), url("../images/groupPhoto.jpg") no-repeat;
+        background: linear-gradient(to right,whitesmoke, transparent 50%), url("images/groupPhoto.jpg") no-repeat;
     }
     .aboutUsWrapper p{
         font-size: 13px;
@@ -143,14 +143,14 @@ html, body {
         display: inline-block;
         width:100%;
         height: auto;
-        background-image: url('../images/specks.png');
+        background-image: url('images/specks.png');
     }
     .backdropSlide {
         width: 100%;
         height: 400px;
         display:block;
         float: none;
-        background: linear-gradient(whitesmoke, transparent 50%), url("../images/amazingKids500.jpg") no-repeat;
+        background: linear-gradient(whitesmoke, transparent 50%), url("images/amazingKids500.jpg") no-repeat;
     }
     #aboutUsHeader h1{
         font-family: Montserrat,Arial,sans-serif;
@@ -164,14 +164,14 @@ html, body {
     display: inline-block;
     width:100%;
     height: auto;
-    background-image: url('../images/specks.png');
+    background-image: url('images/specks.png');
 }
 .backdropSlide {
     width: 100%;
     height: 215px;
     display:block;
     float: none;
-    background: linear-gradient(whitesmoke, transparent 50%), url("../images/amazingKids414.jpg") no-repeat;
+    background: linear-gradient(whitesmoke, transparent 50%), url("images/amazingKids414.jpg") no-repeat;
 }
 .aboutUsTextWrapper{
     margin-top: 45px;
@@ -571,7 +571,7 @@ html, body {
     background-color: #1d0054a6; 
     color: white;  
     box-shadow: 10px #888888;
-    background-image: url('../images/specks.png')
+    background-image: url('images/specks.png')
 }
 .corriculumHeader {
     width: auto;
@@ -658,7 +658,7 @@ html, body {
     background-color: azure;
     color: #1d0054a6;  
     display: inline-block;
-    background-image: url('../images/specks.png')
+    background-image: url('images/specks.png')
 }
 
 /* O W N E R  W R A P P E R */
@@ -740,14 +740,14 @@ html, body {
     width: auto;
     background-color: rgb(60, 143, 0);
     border-radius: 10px;
-    background-image: url('../images/specks.png')
+    background-image: url('images/specks.png')
 }
 
 .profileWrapper {
     height: auto;
     width: auto;
     background-color: transparent;
-    background-image: url('../images/specks.png')
+    background-image: url('images/specks.png')
 }
 
 
@@ -1331,7 +1331,7 @@ html, body {
     padding-bottom: 10%;
     height: auto;
     margin: auto;
-    /* background-image: url('../images/specks.png') */
+    /* background-image: url('images/specks.png') */
 }
 .footerLinks {
     display: inline-block;
@@ -1459,5 +1459,5 @@ p.watermark {
     height: auto;
     background-color: rgb(60, 143, 0);
     border-top-right-radius: 50%; 
-    background-image: url('../images/specks.png')
+    background-image: url('images/specks.png')
 }

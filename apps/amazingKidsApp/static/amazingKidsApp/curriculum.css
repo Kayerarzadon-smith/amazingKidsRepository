@@ -389,7 +389,7 @@ html, body {
     height: auto;
     background-color: whitesmoke;
     color: #1d0054a6;  
-    background-image: url('../images/specks.png')
+    background-image: url('images/specks.png')
 }
 .corriculumHeader {
     width: 100%;
@@ -457,7 +457,7 @@ html, body {
     float: right;
     background-size: cover;
     height: 500px;
-    background: linear-gradient(to right,whitesmoke, transparent 40%), url("../images/infant500.jpg") no-repeat;
+    background: linear-gradient(to right,whitesmoke, transparent 40%), url("images/infant500.jpg") no-repeat;
 }
 .corriculumInfantText {
     width: 50%;
@@ -467,7 +467,7 @@ html, body {
     background-color:whitesmoke;
     color: #1d0054a6;
     font-family: Montserrat, Arial,sans-serif;
-    background-image: url('../images/specks.png');
+    background-image: url('images/specks.png');
     padding-top: 60px;
 }
 .corriculumInfantText h1{
@@ -490,7 +490,7 @@ html, body {
 @media only screen and (max-width: 1366px) {
     .corriculumInfantPic {
         width: 58%;
-        background: linear-gradient(to right,whitesmoke, transparent 90%), url("../images/infant500.jpg") no-repeat;
+        background: linear-gradient(to right,whitesmoke, transparent 90%), url("images/infant500.jpg") no-repeat;
     }
     .corriculumInfantText {
         width: 42%;
@@ -510,7 +510,7 @@ html, body {
 @media only screen and (max-width: 1024px) {
     .corriculumInfantPic {
         width: 60%;
-        background: linear-gradient(to right,whitesmoke, transparent 90%), url("../images/infant500.jpg") no-repeat;
+        background: linear-gradient(to right,whitesmoke, transparent 90%), url("images/infant500.jpg") no-repeat;
     }
     .corriculumInfantText {
         width: 40%;
@@ -536,7 +536,7 @@ html, body {
     .corriculumInfantPic {
         width: 61%;
         height: 500px;
-        background: linear-gradient(to right,whitesmoke, transparent 90%), url("../images/infantPic500.jpg") no-repeat;
+        background: linear-gradient(to right,whitesmoke, transparent 90%), url("images/infantPic500.jpg") no-repeat;
     }
     .corriculumInfantText {
         width: 39%;
@@ -556,7 +556,7 @@ html, body {
     .corriculumInfantPic {
         width: 61%;
         height: 500px;
-        background: linear-gradient(to right,whitesmoke, transparent 90%), url("../images/infantPic500.jpg") no-repeat;
+        background: linear-gradient(to right,whitesmoke, transparent 90%), url("images/infantPic500.jpg") no-repeat;
     }
     .corriculumInfantText {
         width: 39%;
@@ -582,7 +582,7 @@ html, body {
     .corriculumInfantPic {
         width: 50%;
         height: 300px;
-        background: linear-gradient(to right,whitesmoke, transparent 90%), url("../images/infantPic375.jpg") no-repeat;
+        background: linear-gradient(to right,whitesmoke, transparent 90%), url("images/infantPic375.jpg") no-repeat;
     }
     .corriculumInfantText {
         height: auto;
@@ -601,14 +601,14 @@ html, body {
     .infant {
         height: auto;
         display:block;
-        background-image: url('../images/specks.png');
+        background-image: url('images/specks.png');
     }
     .corriculumInfantPic {
         width: 100%;
         height: 400px;
         display:block;
         float: none;
-        background: linear-gradient(whitesmoke, transparent 50%), url("../images/infantPic500.jpg") no-repeat;
+        background: linear-gradient(whitesmoke, transparent 50%), url("images/infantPic500.jpg") no-repeat;
     }
     .corriculumInfantText {
         width:300px;
@@ -619,7 +619,7 @@ html, body {
         background-color:whitesmoke;
         color: #1d0054a6;
         font-family: Montserrat, Arial,sans-serif;
-        background-image: url('../images/specks.png');
+        background-image: url('images/specks.png');
         text-align: center;
         margin-left: auto;
         margin-right: auto;
@@ -645,14 +645,14 @@ html, body {
     .infant {
         height: auto;
         display:block;
-        background-image: url('../images/specks.png');
+        background-image: url('images/specks.png');
     }
     .corriculumInfantPic {
         width: 100%;
         height: 300px;
         display:block;
         float: none;
-        background: linear-gradient(whitesmoke, transparent 50%), url("../images/infantPic375.jpg") no-repeat;
+        background: linear-gradient(whitesmoke, transparent 50%), url("images/infantPic375.jpg") no-repeat;
     }
     .corriculumInfantText {
         width:300px;
@@ -663,7 +663,7 @@ html, body {
         background-color:whitesmoke;
         color: #1d0054a6;
         font-family: Montserrat, Arial,sans-serif;
-        background-image: url('../images/specks.png');
+        background-image: url('images/specks.png');
         text-align: center;
         margin-left: auto;
         margin-right: auto;
@@ -716,7 +716,7 @@ html, body {
     margin: 0px;
     background-size: cover;
     height: 500px;
-    background: linear-gradient(to left,azure, transparent 70%), url("../images/toddler500.jpg") no-repeat;
+    background: linear-gradient(to left,azure, transparent 70%), url("images/toddler500.jpg") no-repeat;
 }
 .corriculumToddlerText {
     width: 50%;
@@ -726,7 +726,7 @@ html, body {
     background-color: azure;
     color: #1d0054a6;
     padding-top: 60px;
-    background-image: url('../images/specks.png');
+    background-image: url('images/specks.png');
     font-family: Montserrat,Arial,sans-serif;
 }
 .corriculumToddlerText h1{
@@ -749,7 +749,7 @@ html, body {
         margin: 0px;
         background-size: cover;
         height: 500px;
-        background: linear-gradient(to left,azure, transparent 70%), url("../images/toddler500.jpg") no-repeat;
+        background: linear-gradient(to left,azure, transparent 70%), url("images/toddler500.jpg") no-repeat;
     }
     .corriculumToddlerText {
         width: 51%;
@@ -778,7 +778,7 @@ html, body {
         margin: 0px;
         background-size: cover;
         height: 500px;
-        background: linear-gradient(to left,azure, transparent 70%), url("../images/toddler500.jpg") no-repeat;
+        background: linear-gradient(to left,azure, transparent 70%), url("images/toddler500.jpg") no-repeat;
     }
     .corriculumToddlerText {
         width: 40%;
@@ -813,7 +813,7 @@ html, body {
         margin: 0px;
         background-size: cover;
         height: 500px;
-        background: linear-gradient(to left,azure, transparent 60%), url("../images/toddlerPic500.jpg") no-repeat;
+        background: linear-gradient(to left,azure, transparent 60%), url("images/toddlerPic500.jpg") no-repeat;
     }
     .corriculumToddlerText {
         width: 41%;
@@ -858,7 +858,7 @@ html, body {
     .corriculumToddlerPic {
         width: 50%;
         height: 300px;
-        background: linear-gradient(to left,azure, transparent 90%), url("../images/toddlerPic375.jpg") no-repeat;
+        background: linear-gradient(to left,azure, transparent 90%), url("images/toddlerPic375.jpg") no-repeat;
     }
     .corriculumToddlerText {
         height: auto;
@@ -877,7 +877,7 @@ html, body {
     .toddler {
         height: auto;
         display:block;
-        background-image: url('../images/specks.png');
+        background-image: url('images/specks.png');
     }
     .corriculumToddlerPic {
         width: none;
@@ -911,7 +911,7 @@ html, body {
         width: 100%;
         margin: -1px;
         height: 400px;
-        background: linear-gradient(azure, transparent 70%), url("../images/toddlerPic500.jpg") no-repeat;
+        background: linear-gradient(azure, transparent 70%), url("images/toddlerPic500.jpg") no-repeat;
     }
 }
 
@@ -921,7 +921,7 @@ html, body {
     .toddler {
         height: auto;
         display:block;
-        background-image: url('../images/specks.png');
+        background-image: url('images/specks.png');
     }
     .corriculumToddlerPic {
         width: none;
@@ -955,7 +955,7 @@ html, body {
         width: 100%;
         margin: -1px;
         height: 300px;
-        background: linear-gradient(azure, transparent 70%), url("../images/toddlerPic375.jpg") no-repeat;
+        background: linear-gradient(azure, transparent 70%), url("images/toddlerPic375.jpg") no-repeat;
     }
 }
 /* P R E S C H O O L  C O M P O N E N T */  /* P R E S C H O O L  C O M P O N E N T */ 
@@ -991,7 +991,7 @@ html, body {
     margin: 0px;
     background-size: cover;
     height: 500px;
-    background: linear-gradient(to right,whitesmoke, transparent 50%), url("../images/preK500.jpg") no-repeat;
+    background: linear-gradient(to right,whitesmoke, transparent 50%), url("images/preK500.jpg") no-repeat;
 }
 .corriculumPreKText {
     width: 62%;
@@ -1002,7 +1002,7 @@ html, body {
     vertical-align: top;
     color: #1d0054a6;
     padding-top: 60px;
-    background-image: url('../images/specks.png');
+    background-image: url('images/specks.png');
     font-family: Montserrat,Arial,sans-serif;
 }
 .corriculumPreKText h1{
@@ -1024,7 +1024,7 @@ html, body {
 @media only screen and (max-width: 1366px) {
     .corriculumPreKPic {
         width: 47%;
-        background: linear-gradient(to right,whitesmoke, transparent 100%), url("../images/preK500.jpg") no-repeat;
+        background: linear-gradient(to right,whitesmoke, transparent 100%), url("images/preK500.jpg") no-repeat;
     }
     .corriculumPreKText {
         width: 53%;
@@ -1045,7 +1045,7 @@ html, body {
 @media only screen and (max-width: 1024px) {
     .corriculumPreKPic {
         width: 60%;
-        background: linear-gradient(to right,whitesmoke, transparent 100%), url("../images/preK500.jpg") no-repeat;
+        background: linear-gradient(to right,whitesmoke, transparent 100%), url("images/preK500.jpg") no-repeat;
     }
     .corriculumPreKText {
         width: 40%;
@@ -1062,7 +1062,7 @@ html, body {
 @media only screen and (max-width: 1024px) {
     .corriculumPreKPic {
         width: 59%;
-        background: linear-gradient(to right,whitesmoke, transparent 100%), url("../images/preK500.jpg") no-repeat;
+        background: linear-gradient(to right,whitesmoke, transparent 100%), url("images/preK500.jpg") no-repeat;
     }
     .corriculumPreKText {
         width: 41%;
@@ -1080,7 +1080,7 @@ html, body {
 @media only screen and (max-width: 812px) {
     .corriculumPreKPic {
         width: 60%;
-        background: linear-gradient(to right,whitesmoke, transparent 100%), url("../images/preKPic500.jpg") no-repeat;
+        background: linear-gradient(to right,whitesmoke, transparent 100%), url("images/preKPic500.jpg") no-repeat;
     }
     .corriculumPreKText {
         width: 40%;
@@ -1099,7 +1099,7 @@ html, body {
 @media only screen and (max-width: 768px) {
     .corriculumPreKPic {
         width: 61%;
-        background: linear-gradient(to right,whitesmoke, transparent 100%), url("../images/preKPic500.jpg") no-repeat;
+        background: linear-gradient(to right,whitesmoke, transparent 100%), url("images/preKPic500.jpg") no-repeat;
     }
     .corriculumPreKText {
         width: 39%;
@@ -1121,7 +1121,7 @@ html, body {
     .corriculumPreKPic {
         width: 50%;
         height: 300px;
-        background: linear-gradient(to right,whitesmoke, transparent 90%), url("../images/preKPic375.jpg") no-repeat;
+        background: linear-gradient(to right,whitesmoke, transparent 90%), url("images/preKPic375.jpg") no-repeat;
     }
     .corriculumPreKText {
         height: auto;
@@ -1140,7 +1140,7 @@ html, body {
     .preK {
         height: auto;
         display:block;
-        background-image: url('../images/specks.png');
+        background-image: url('images/specks.png');
     }
     .corriculumPreKPic {
         width: 100%;
@@ -1148,7 +1148,7 @@ html, body {
         display:block;
         float: none;
         margin: -1px;
-        background: linear-gradient(whitesmoke, transparent 50%), url("../images/preKPic500.jpg") no-repeat;
+        background: linear-gradient(whitesmoke, transparent 50%), url("images/preKPic500.jpg") no-repeat;
     }
     .corriculumPreKText {
         width:300px;
@@ -1159,7 +1159,7 @@ html, body {
         background-color:whitesmoke;
         color: #1d0054a6;
         font-family: Montserrat, Arial,sans-serif;
-        background-image: url('../images/specks.png');
+        background-image: url('images/specks.png');
         text-align: center;
         margin-left: auto;
         margin-right: auto;
@@ -1184,7 +1184,7 @@ html, body {
     .preK {
         height: auto;
         display:block;
-        background-image: url('../images/specks.png');
+        background-image: url('images/specks.png');
     }
     .corriculumPreKPic {
         width: 100%;
@@ -1192,7 +1192,7 @@ html, body {
         display:block;
         float: none;
         margin: -1px;
-        background: linear-gradient(whitesmoke, transparent 50%), url("../images/preKPic375.jpg") no-repeat;
+        background: linear-gradient(whitesmoke, transparent 50%), url("images/preKPic375.jpg") no-repeat;
     }
     .corriculumPreKText {
         width:300px;
@@ -1203,7 +1203,7 @@ html, body {
         background-color:whitesmoke;
         color: #1d0054a6;
         font-family: Montserrat, Arial,sans-serif;
-        background-image: url('../images/specks.png');
+        background-image: url('images/specks.png');
         text-align: center;
         margin-left: auto;
         margin-right: auto;
@@ -1256,7 +1256,7 @@ html, body {
     margin: 0px;
     background-size: cover;
     height: 500px;
-    background: linear-gradient(to left,azure , transparent 80%), url("../images/kinderPrep500.jpg") no-repeat;
+    background: linear-gradient(to left,azure , transparent 80%), url("images/kinderPrep500.jpg") no-repeat;
 }
 .corriculumKinderPrepText {
     width: 53%;
@@ -1266,7 +1266,7 @@ html, body {
     background-color: azure;
     vertical-align: top;
     color: #1d0054a6;
-    background-image: url('../images/specks.png');
+    background-image: url('images/specks.png');
     font-family: Montserrat,Arial,sans-serif;
 }
 .corriculumKinderPrepTextWrapper {
@@ -1344,7 +1344,7 @@ html, body {
     .corriculumKinderPrepPic {
         width: 49%;
         height: 300px;
-        background: linear-gradient(to left,azure, transparent 90%), url("../images/kinderPrep500.jpg") no-repeat;
+        background: linear-gradient(to left,azure, transparent 90%), url("images/kinderPrep500.jpg") no-repeat;
     }
     .corriculumKinderPrepText {
         width: 51%;
@@ -1367,7 +1367,7 @@ html, body {
     .corriculumKinderPrepPic {
         width: 48%;
         height: 300px;
-        background: linear-gradient(to left,azure, transparent 90%), url("../images/kinderPrep500.jpg") no-repeat;
+        background: linear-gradient(to left,azure, transparent 90%), url("images/kinderPrep500.jpg") no-repeat;
     }
     .corriculumKinderPrepText {
         width: 50%;
@@ -1388,7 +1388,7 @@ html, body {
     .kinderPrep {
         height: auto;
         display:block;
-        background-image: url('../images/specks.png');
+        background-image: url('images/specks.png');
     }
     .corriculumKinderPrepPic {
         width: 100%;
@@ -1396,7 +1396,7 @@ html, body {
         display:block;
         float: none;
         margin: -1px;
-        background: linear-gradient(azure, transparent 50%), url("../images/kinderPrep500.jpg") no-repeat;
+        background: linear-gradient(azure, transparent 50%), url("images/kinderPrep500.jpg") no-repeat;
     }
     .corriculumKinderPrepText {
         width:300px;
@@ -1407,7 +1407,7 @@ html, body {
         background-color:azure;
         color: #1d0054a6;
         font-family: Montserrat, Arial,sans-serif;
-        background-image: url('../images/specks.png');
+        background-image: url('images/specks.png');
         text-align: center;
         margin-left: auto;
         margin-right: auto;
@@ -1435,7 +1435,7 @@ html, body {
     .kinderPrep {
         height: auto;
         display:block;
-        background-image: url('../images/specks.png');
+        background-image: url('images/specks.png');
     }
     .corriculumKinderPrepPic {
         width: 100%;
@@ -1443,7 +1443,7 @@ html, body {
         display:block;
         float: none;
         margin: -1px;
-        background: linear-gradient(azure, transparent 50%), url("../images/kinderPrep375.jpg") no-repeat;
+        background: linear-gradient(azure, transparent 50%), url("images/kinderPrep375.jpg") no-repeat;
     }
     .corriculumKinderPrepText {
         width:300px;
@@ -1454,7 +1454,7 @@ html, body {
         background-color:azure;
         color: #1d0054a6;
         font-family: Montserrat, Arial,sans-serif;
-        background-image: url('../images/specks.png');
+        background-image: url('images/specks.png');
         text-align: center;
         margin-left: auto;
         margin-right: auto;
@@ -1493,7 +1493,7 @@ html, body {
     padding-bottom: 10%;
     height: auto;
     margin: auto;
-    /* background-image: url('../images/specks.png') */
+    /* background-image: url('images/specks.png') */
 }
 .footerLinks {
     display: inline-block;
@@ -1624,5 +1624,5 @@ p.watermark {
     height: auto;
     background-color: rgb(60, 143, 0);
     border-top-right-radius: 50%; 
-    background-image: url('../images/specks.png')
+    background-image: url('images/specks.png')
 }
